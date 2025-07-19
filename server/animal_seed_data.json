@@ -1,0 +1,153 @@
+[
+  {
+    "name": "Milo",
+    "type": "Dog",
+    "age": 2,
+    "gender": "Male",
+    "description": "A loyal Labrador looking for a loving home.",
+    "amountNeeded": 1500,
+    "amountReceived": 300,
+    "image": "https://media.licdn.com/dms/image/v2/D4E10AQHlojIYWlRt5Q/image-shrink_800/image-shrink_800/0/1718899931152?e=2147483647&v=beta&t=Ih-kTCzSIh5W_eBCFIkOqouqVFZthW3B6uXxtZl4tUs"
+  },
+  {
+    "name": "Luna",
+    "type": "Cat",
+    "age": 1,
+    "gender": "Female",
+    "description": "A quiet, affectionate cat rescued from the streets.",
+    "amountNeeded": 1200,
+    "amountReceived": 200,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYf9XYjHsSzmpIpOUVDlvl4tHnuo17f5Q3aw&s"
+  },
+  {
+    "name": "Charlie",
+    "type": "Dog",
+    "age": 3,
+    "gender": "Male",
+    "description": "An energetic Beagle who loves walks.",
+    "amountNeeded": 1800,
+    "amountReceived": 1600,
+    "image": "https://cdn.britannica.com/80/29280-050-A3A13277/Beagles-pets.jpg"
+  },
+  {
+    "name": "Coco",
+    "type": "Parrot",
+    "age": 5,
+    "gender": "Female",
+    "description": "Talks a lot and sings beautifully.",
+    "amountNeeded": 2000,
+    "amountReceived": 400,
+    "image": "https://cdn4.volusion.store/dkero-prdjp/v/vspfiles/photos/ADOPTION3-2.jpg?v-cache=1690527377"
+  },
+  {
+    "name": "Simba",
+    "type": "Cat",
+    "age": 4,
+    "gender": "Male",
+    "description": "Fierce-looking but sweet Siamese cat.",
+    "amountNeeded": 900,
+    "amountReceived": 900,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqIs1MPLNMZLBbl-6B8OMcvq_oeKZCSIPAJeShXR-SLFFk-sGXCZOwdTQF9YCG0kbQFAY&usqp=CAU"
+  },
+  {
+    "name": "Daisy",
+    "type": "Dog",
+    "age": 1,
+    "gender": "Female",
+    "description": "Golden Retriever pup rescued from neglect.",
+    "amountNeeded": 2500,
+    "amountReceived": 1200,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-9HGzFTe8mxFV48eHdx9ROJjPhpndH7jikA&s"
+  },
+  {
+    "name": "Oscar",
+    "type": "Rabbit",
+    "age": 2,
+    "gender": "Male",
+    "description": "White rabbit who loves carrots and cuddles.",
+    "amountNeeded": 800,
+    "amountReceived": 200,
+    "image": "https://preview.redd.it/help-identify-my-rabbits-breed-v0-p79fi6myaive1.jpg?width=640&crop=smart&auto=webp&s=16b2333519bf262590a63e2549b24b9046dc400b"
+  },
+  {
+    "name": "Nala",
+    "type": "Dog",
+    "age": 4,
+    "gender": "Female",
+    "description": "Mixed breed mother of four pups.",
+    "amountNeeded": 3000,
+    "amountReceived": 2800,
+    "image": "https://i.pinimg.com/736x/d2/86/01/d286015b1c2f5604bba30af192c75c48.jpg"
+  },
+  {
+    "name": "Chirpy",
+    "type": "Parrot",
+    "age": 3,
+    "gender": "Male",
+    "description": "Green parakeet with a funny laugh.",
+    "amountNeeded": 1000,
+    "amountReceived": 300,
+    "image": "https://namessprout.com/wp-content/uploads/2024/09/Funny-Parrot-Names-1024x576.webp"
+  },
+  {
+    "name": "Whiskers",
+    "type": "Cat",
+    "age": 2,
+    "gender": "Male",
+    "description": "Tuxedo cat abandoned by previous owners.",
+    "amountNeeded": 1500,
+    "amountReceived": 500,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYBddVYMeHIncj9emhvorJrit8fZ3VT0hCg3wdMq9wZ4d2VMFGNzlZ_SwPQqFZ0Xco6iM&usqp=CAU"
+  },
+  {
+    "name": "Rocky",
+    "type": "Dog",
+    "age": 5,
+    "gender": "Male",
+    "description": "Old boxer with a heart of gold.",
+    "amountNeeded": 2200,
+    "amountReceived": 1900,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0RhUcD5wa97Fw_05l5fWuADF2NgbZ4geubvNIoudQ4pp-9vCoy4NULPng_xCjSFQsieI&usqp=CAU"
+  },
+  {
+    "name": "Angel",
+    "type": "Cat",
+    "age": 1,
+    "gender": "Female",
+    "description": "Sweet Persian kitten found in a box.",
+    "amountNeeded": 1700,
+    "amountReceived": 1100,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_jnw0wz1dsW7pOGDa3R4AW16KCjYrdI44slF9n2UT2TZRwgaTc_B5U1kvO4ZPscuh2OU&usqp=CAU"
+  },
+  {
+    "name": "Buddy",
+    "type": "Dog",
+    "age": 2,
+    "gender": "Male",
+    "description": "Playful pug needing surgery.",
+    "amountNeeded": 2400,
+    "amountReceived": 600,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR60nct_MOMTWd1kJE0tXiLEGUKStGAzvsIFg&s"
+  },
+  {
+    "name": "Polly",
+    "type": "Parrot",
+    "age": 6,
+    "gender": "Female",
+    "description": "Colorful macaw rescued from captivity.",
+    "amountNeeded": 3200,
+    "amountReceived": 900,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7_VGHWCJa2AC44vccMSuezgavPPefWgwXog&s"
+  },
+  {
+    "name": "Snowy",
+    "type": "Rabbit",
+    "age": 3,
+    "gender": "Female",
+    "description": "Fluffy white bunny with red eyes.",
+    "amountNeeded": 950,
+    "amountReceived": 150,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFPsXJw3Wa8wXaiUCruzv3IlKT1utonwZgwQ&s"
+  }
+]
+
