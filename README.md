@@ -15,11 +15,7 @@ A full-stack application for browsing shelter animals and making donations secur
 - **Frontend:** React, Tailwind CSS, Axios, React Router
 - **Backend:** Node.js, Express, MongoDB, Stripe
 - **Payment:** Stripe Checkout API + Webhook for donation tracking
-
-## 📷 Screenshots
-
-> Add screenshots of your UI here!
-
+-  
 ## ⚙️ Installation
 
 ### Backend (Server)
